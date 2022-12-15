@@ -1,0 +1,14 @@
+
+.red {
+    color: red;
+}
+
+.mtable {
+    width: 50vw;
+    height: 50vh;
+    border: solid;
+}
+
+td {
+    border: solid;
+}
